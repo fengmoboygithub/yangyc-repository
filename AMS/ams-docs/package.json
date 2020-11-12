@@ -1,0 +1,17 @@
+{
+  "name": "ams-docs",
+  "version": "1.1.0",
+  "description": "AMS开发文档-建站使用",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
